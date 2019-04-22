@@ -1,0 +1,14 @@
+{
+    "help" : "Hi, I can help you to *find or meet anyone at the office*\n\nYou can control me by sending these commands:\n",
+    "commands" : [
+        "/help - to get all command list",
+        "/where @username - to find where someone is should be seated",
+        "/where squadname - to find where a squard are should be",
+        "/maps - to get bukalapak offices list or map",
+        "/book city capacity start(date:time) stop(date:time) - to try book a meeting room in a specific city, capacity and time. \n```\nDate time format MMM-dd:HH:mm (Ex: /book jakarta may-07:13:30 may-07:18:30)\n```"
+    ],
+    "help2" : "\n*Special Feature:*\nFind some new friend at the office, meet some one new and open up new work/non-work possibilities. Try these command and you wont regret it, but if it does, just try your luck another day\n",
+    "special" : [
+        "/newfriend event city - find some new friend for event [lunch/dinner] in specific city [bandung/jakarta]"
+    ]
+}

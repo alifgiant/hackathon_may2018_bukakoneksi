@@ -1,0 +1,1 @@
+INSERT INTO offices (id, name, address, city, location_url) VALUES (2, 'Jason / Ampera 22', 'Jl. Ampera No. 22', 'Jakarta', "https://www.google.com/maps/place/Jason's+Market,+Jl.+Ampera+Raya+No.22,+Cilandak+Tim.,+Ps.+Minggu,+Kota+Jakarta+Selatan,+Daerah+Khusus+Ibukota+Jakarta+12560/@-6.2826719,106.8197005,16z/data=!4m2!3m1!1s0x2e69f21e69fe8a83:0xad49bfe9b45a0d9b");
